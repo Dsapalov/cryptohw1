@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28DEA0B9-2A01-47FF-AC44-81FD4796E05E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF13A2B7-E29A-4C64-B0D4-0B920B3EEAD4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoHW1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "calculate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF13A2B7-E29A-4C64-B0D4-0B920B3EEAD4 - 3299ebe942bb2db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoHW1.ViewController.calculate() -&gt; ()"
+                  moduleName = "CryptoHW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denissa/Desktop/courses/crypto/CryptoHW1/CryptoHW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "BF13A2B7-E29A-4C64-B0D4-0B920B3EEAD4 - 3299ebe942bb2db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoHW1.ViewController.calculate() -&gt; ()"
+                  moduleName = "CryptoHW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denissa/Desktop/courses/crypto/CryptoHW1/CryptoHW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "355">
+               </Location>
+               <Location
+                  uuid = "BF13A2B7-E29A-4C64-B0D4-0B920B3EEAD4 - 3299ebe942bb2db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoHW1.ViewController.calculate() -&gt; ()"
+                  moduleName = "CryptoHW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denissa/Desktop/courses/crypto/CryptoHW1/CryptoHW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "683">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
